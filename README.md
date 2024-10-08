@@ -102,7 +102,11 @@ This roadmap is designed to guide students through the process of mastering the 
    Redis Crash Course to mange cache.  
    [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 
-### Advanced Projects
+
+---
+
+
+## Advanced Projects
 1. **MERN Mega Project 1: Real Estate Marketplace**  
    Build a real-world real estate marketplace with the MERN stack.  
    [Real Estate Marketplace with MERN](https://youtu.be/VAaUy_Moivw?si=tw-O3yIC1avuaYYa)
