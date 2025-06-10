@@ -11,16 +11,17 @@ This roadmap is designed to guide students through the process of mastering the 
 1. **HTML, CSS, JavaScript, Git & GitHub**  
    Learn the basics of web development and version control with GitHub.  
    [HTML, CSS, JavaScript, Git & GitHub - YouTube](https://youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&si=AGsZJxSceTP0lEXw)
+   [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
-2. **React.js Full Course for Beginners**  
+3. **React.js Full Course for Beginners**  
    Start learning React, the front-end library of the MERN stack.  
    [React.js - Full Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
 
-3. **Node.js and Express.js Full Course**  
+4. **Node.js and Express.js Full Course**  
    Explore the back-end technologies: Node.js and Express.js.  
    [Node.js and Express.js - Full Course](https://youtu.be/Oe421EPjeBE?si=zchB9d7DGExTRnv5)
 
-4. **Basic CRUD Operations in MERN**  
+5. **Basic CRUD Operations in MERN**  
    Learn how to perform basic CRUD operations in a MERN stack project.  
    [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR)
 
@@ -58,6 +59,7 @@ This roadmap is designed to guide students through the process of mastering the 
 5. **JavaScript Basics**  
    Start learning JavaScript, the essential language for web development.   
    [JavaScript Crash Course](https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW)
+   [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 6. **React**  
    Learn the basics of React, the front-end library used in MERN.  
@@ -85,6 +87,7 @@ This roadmap is designed to guide students through the process of mastering the 
 2. **JavaScript Crash Course**  
    Deep dive into JavaScript fundamentals for advanced web development.  
    [JavaScript Crash Course](https://youtu.be/XIOLqoPHCJ4?si=oHg7ubvuU4yOfi_F)
+   [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 3. **React.js**  
    - [React.js Crash Course](https://youtu.be/LDB4uaJ87e0?si=VNX_L2jylf-zYtJp)  
