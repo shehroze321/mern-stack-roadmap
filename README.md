@@ -58,7 +58,7 @@ This roadmap is designed to guide students through the process of mastering the 
 
 5. **JavaScript Basics**  
    Start learning JavaScript, the essential language for web development.   
-   [JavaScript Crash Course](https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW)
+   [JavaScript Crash Course](https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW) <br />
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 6. **React**  
@@ -86,7 +86,7 @@ This roadmap is designed to guide students through the process of mastering the 
 
 2. **JavaScript Crash Course**  
    Deep dive into JavaScript fundamentals for advanced web development.  
-   [JavaScript Crash Course](https://youtu.be/XIOLqoPHCJ4?si=oHg7ubvuU4yOfi_F)
+   [JavaScript Crash Course](https://youtu.be/XIOLqoPHCJ4?si=oHg7ubvuU4yOfi_F) <br />
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 3. **React.js**  
