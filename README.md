@@ -10,7 +10,7 @@ This roadmap is designed to guide students through the process of mastering the 
 ### Getting Started with MERN
 1. **HTML, CSS, JavaScript, Git & GitHub**  
    Learn the basics of web development and version control with GitHub.  
-   [HTML, CSS, JavaScript, Git & GitHub - YouTube](https://youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&si=AGsZJxSceTP0lEXw)
+   [HTML, CSS, JavaScript, Git & GitHub - YouTube](https://youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&si=AGsZJxSceTP0lEXw) <br />
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 3. **React.js Full Course for Beginners**  
