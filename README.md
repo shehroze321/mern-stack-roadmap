@@ -15,7 +15,8 @@ This roadmap is designed to guide students through the process of mastering the 
 
 3. **React.js Full Course for Beginners**  
    Start learning React, the front-end library of the MERN stack.  
-   [React.js - Full Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
+   [React.js - Full Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) <br />
+   [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing) <br />
 
 4. **Node.js and Express.js Full Course**  
    Explore the back-end technologies: Node.js and Express.js.  
@@ -23,7 +24,8 @@ This roadmap is designed to guide students through the process of mastering the 
 
 5. **Basic CRUD Operations in MERN**  
    Learn how to perform basic CRUD operations in a MERN stack project.  
-   [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR)
+   [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR) <br />
+   [📄 SoulConnect Backend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing) <br />
 
 ### Projects for Intermediate Students
 1. **MERN Mega Project 1: Real Estate Marketplace**  
@@ -62,15 +64,18 @@ This roadmap is designed to guide students through the process of mastering the 
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 6. **React**  
-   Learn the basics of React, the front-end library used in MERN.  
-   [React.js for Beginners](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
+   Learn the basics of React, the front-end library used in MERN.
+   [React Roadmap](https://roadmap.sh/react) <br />
+   [React.js for Beginners](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) <br />
+   [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing)
 
-7. **Node.js and Express.js (English)**  
+8. **Node.js and Express.js (English)**  
    Dive into the server-side technologies that power MERN.  
    [Node.js and Express.js - Full Course](https://youtu.be/Oe421EPjeBE?si=zchB9d7DGExTRnv5)
-8. **Node.js and Express.js (Hindi)**  
+9. **Node.js and Express.js (Hindi)**  
    Dive into the server-side technologies that power MERN.  
-   [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=VrQgmNY96wo&t=23s)
+   [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=VrQgmNY96wo&t=23s) <br />
+   [📄 SoulConnect Backend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing)
 
 
 
@@ -89,19 +94,22 @@ This roadmap is designed to guide students through the process of mastering the 
    [JavaScript Crash Course](https://youtu.be/XIOLqoPHCJ4?si=oHg7ubvuU4yOfi_F) <br />
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
-3. **React.js**  
+3. **React.js**
+   - [React Roadmap](https://roadmap.sh/react) <br /> 
    - [React.js Crash Course](https://youtu.be/LDB4uaJ87e0?si=VNX_L2jylf-zYtJp)  
    - [React.js with Tailwind CSS](https://youtu.be/WQ4kQd-F-Wg?si=9BNM5HlOC_nSjYGN)
+   - [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing)
 
-4. **Express.js**  
+5. **Express.js**  
    Learn advanced Express.js concepts to build powerful APIs.  
-   [Express.js Crash Course](https://youtu.be/CnH3kAXSrmU?si=NIe5Q4_2BEwwWNa2)
+   [Express.js Crash Course](https://youtu.be/CnH3kAXSrmU?si=NIe5Q4_2BEwwWNa2) 
 
-5. **MERN Basic CRUD**  
+6. **MERN Basic CRUD**  
    Practice CRUD operations in MERN at a deeper level.  
-   [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR)
+   [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR) <br />
+   [📄 SoulConnect Backend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing)
 
-6. **Redis Crash Course**  
+8. **Redis Crash Course**  
    Redis Crash Course to mange cache.  
    [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 
