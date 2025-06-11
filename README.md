@@ -11,11 +11,13 @@ This roadmap is designed to guide students through the process of mastering the 
 1. **HTML, CSS, JavaScript, Git & GitHub**  
    Learn the basics of web development and version control with GitHub.  
    [HTML, CSS, JavaScript, Git & GitHub - YouTube](https://youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&si=AGsZJxSceTP0lEXw) <br />
+   Js test and certificate from feecodecamp.
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 3. **React.js Full Course for Beginners**  
    Start learning React, the front-end library of the MERN stack.  
    [React.js - Full Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) <br />
+   Task Document
    [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing) <br />
 
 4. **Node.js and Express.js Full Course**  
@@ -25,6 +27,7 @@ This roadmap is designed to guide students through the process of mastering the 
 5. **Basic CRUD Operations in MERN**  
    Learn how to perform basic CRUD operations in a MERN stack project.  
    [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR) <br />
+   Task Document
    [📄 SoulConnect Backend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing) <br />
 
 ### Projects for Intermediate Students
@@ -61,12 +64,15 @@ This roadmap is designed to guide students through the process of mastering the 
 5. **JavaScript Basics**  
    Start learning JavaScript, the essential language for web development.   
    [JavaScript Crash Course](https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW) <br />
-   [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+   [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification]
+   Test and Freecodecamp certification
+(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 6. **React**  
    Learn the basics of React, the front-end library used in MERN.
    [React Roadmap](https://roadmap.sh/react) <br />
    [React.js for Beginners](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) <br />
+   Task Document
    [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing)
 
 8. **Node.js and Express.js (English)**  
@@ -92,12 +98,14 @@ This roadmap is designed to guide students through the process of mastering the 
 2. **JavaScript Crash Course**  
    Deep dive into JavaScript fundamentals for advanced web development.  
    [JavaScript Crash Course](https://youtu.be/XIOLqoPHCJ4?si=oHg7ubvuU4yOfi_F) <br />
+   Test and Freecodecampt certification
    [JavaScript with CertificateComplete the free JavaScript certification course.FreeCodeCamp JavaScript Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 3. **React.js**
    - [React Roadmap](https://roadmap.sh/react) <br /> 
    - [React.js Crash Course](https://youtu.be/LDB4uaJ87e0?si=VNX_L2jylf-zYtJp)  
-   - [React.js with Tailwind CSS](https://youtu.be/WQ4kQd-F-Wg?si=9BNM5HlOC_nSjYGN)
+   - [React.js with Tailwind CSS](https://youtu.be/WQ4kQd-F-Wg?si=9BNM5HlOC_nSjYGN) <br />
+    Task Document
    - [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing)
 
 5. **Express.js**  
