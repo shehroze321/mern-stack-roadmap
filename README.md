@@ -18,13 +18,15 @@ This roadmap is designed to guide students through the process of mastering the 
    Start learning React, the front-end library of the MERN stack.  
    [React.js - Full Course](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) <br />
    Task Document
+   Art Sharing Platform  -> Frontend
+   Fitness Tracking Platform -> Frontend 
    [📄 SoulConnect Frontend Guide](https://docs.google.com/document/d/10ZdWQ26zmXRN85N4_pnYZRbtt_291HaJCFJmXCnSR5M/edit?usp=sharing) <br />
 
-4. **Node.js and Express.js Full Course**  
+5. **Node.js and Express.js Full Course**  
    Explore the back-end technologies: Node.js and Express.js.  
    [Node.js and Express.js - Full Course](https://youtu.be/Oe421EPjeBE?si=zchB9d7DGExTRnv5)
 
-5. **Basic CRUD Operations in MERN**  
+6. **Basic CRUD Operations in MERN**  
    Learn how to perform basic CRUD operations in a MERN stack project.  
    [MERN Basic CRUD Operations](https://youtu.be/enOsPhp2Z6Q?si=mBWP4hRN48b_5kpR) <br />
    Task Document
@@ -35,7 +37,11 @@ This roadmap is designed to guide students through the process of mastering the 
    Build a modern real estate marketplace using MERN, JWT, and Redux Toolkit.  
    [Real Estate Marketplace with MERN](https://youtu.be/VAaUy_Moivw?si=tw-O3yIC1avuaYYa)
 
-2. **Multi-Vendor MERN Stack E-commerce Project**  
+   Art Sharing Platform  -> Backend 
+   Fitness Tracking Platform -> Backend 
+   
+
+3. **Multi-Vendor MERN Stack E-commerce Project**  
    Create a multi-vendor e-commerce platform with MERN, designed for beginners.  
    [Multi-Vendor MERN E-commerce Project](https://youtu.be/enOsPhp2Z6Q)
 
